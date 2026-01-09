@@ -1,0 +1,6 @@
+.env
+.env
+Agentic_RAG-updated/.env
+__pycache__/
+*.pyc
+venv/
